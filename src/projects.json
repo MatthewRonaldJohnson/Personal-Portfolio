@@ -2,15 +2,15 @@
     {
         "id": 1,
         "title": "Page Turner",
-        "writeUp": "This CRUD application lets users signup, search for books, write reviews for those books, and leave comments on their and others reviews. It also allows users to update their profile with profile pictures, bios, and the ability to change username and passwords.",
-        "img": "../assets/PageTurner_Pic.PNG",
+        "writeUp": "This CRUD application lets users signup, search for books, write reviews for those books, and leave comments on their and others reviews. It also allows users to update their profile with profile pictures, bios, and the ability to change username and passwords. It uses the handlebars templating engine, a Node Express server backend, and a MySql Database. The application is deployed with heroku and uses the JawsDB MySql add-on. User uploaded profile pictures are stored in Cloudinary cloud storage.",
+        "img": "https://github.com/MatthewRonaldJohnson/Personal-Portfolio/blob/main/assets/PageTurner_Pic.PNG?raw=true",
         "deployed": "https://page-turner-mj-ed-kr.herokuapp.com/",
         "github": "https://github.com/MatthewRonaldJohnson/Page-Turner"
     },
     {
         "id": 2,
         "title": "Tech Blog",
-        "writeUp": "Tech Blog write up",
+        "writeUp": "This application is a simple blog website where users can log in, create posts, update/delete their posts, and leave comments. It was built using the handlebars templaying engine, a Node Express server backend, and a MySql database. The application is deployed with heroku and uses the JawsDB MySql add-on.  ",
         "img": "https://raw.githubusercontent.com/MatthewRonaldJohnson/Tech-Blog/main/assests/img/Desktop-Homepage.PNG",
         "deployed": "https://mrj-tech-blog.herokuapp.com/",
         "github": "https://github.com/MatthewRonaldJohnson/Tech-Blog"
@@ -18,24 +18,24 @@
     {
         "id": 3,
         "title": "Budget Tracker",
-        "writeUp": "Budget Tracker Write Up",
-        "img": "../assets/BudgetTracker_Pic.PNG",
+        "writeUp": "This PWA is a budget tracker where a user can enter in transactions and see the current total of their account along with history dispalyed with a graph. The uses a Mongo Database to transaction history and makes use of the browsers indexDB when offline for temporary storage. The app has full functionality while offline and once the user reconnects their offline transactions will automatically be uploaded to the cloud database. The application is deployed with heroku and uses a Mongo Atlas database. ",
+        "img": "https://raw.githubusercontent.com/MatthewRonaldJohnson/Personal-Portfolio/main/assets/BudgetTracker_Pic.PNG",
         "deployed": "https://mrj-budget-tracker.herokuapp.com/",
         "github": "https://github.com/MatthewRonaldJohnson/Buget-Tracker"
     },
     {
         "id": 4,
         "title": "Workout Tracker",
-        "writeUp": "Workout Write Up",
-        "img": "../assets/WorkoutTracker_Pic.PNG",
+        "writeUp": "This application allows users to log their workouts and see a graphical dispaly of their total time spent working out. The application is deployed with heroku and uses a Mongo Atlas database.",
+        "img": "https://github.com/MatthewRonaldJohnson/Personal-Portfolio/blob/main/assets/WorkoutTracker_Pic.PNG?raw=true",
         "deployed": "https://mrj-workout-tracker.herokuapp.com/",
         "github": "https://github.com/MatthewRonaldJohnson/Workout-Tracker"
     },
     {
         "id": 5,
         "title": "Employee Directory",
-        "writeUp": "Employee Directory Write Up",
-        "img": "../assets/EmployeeDirectory_Pic.PNG",
+        "writeUp": "This proof of concept app creates a searchable/sortable employee directory using data from the Random User API. The application was built with react and stlyed using Bootstrap 4. It is deployed with Netlify.",
+        "img": "https://github.com/MatthewRonaldJohnson/Personal-Portfolio/blob/main/assets/EmployeeDirectory_Pic.PNG?raw=true",
         "deployed": "https://infallible-roentgen-ff9a88.netlify.app/",
         "github": "https://github.com/MatthewRonaldJohnson/employee_directory"
     }
