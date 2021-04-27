@@ -1,7 +1,11 @@
 import {BrowserRouter as Router, Route} from "react-router-dom";
 
 import Header from "./components/Header";
-import Footer from "./components/Footer"
+import Footer from "./components/Footer";
+
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Contact from "./pages/Contact"
 
 export default function App() {
   return (
@@ -9,13 +13,13 @@ export default function App() {
       <Header />
       <div>
         <Route exact path="/">
-          <div>Home</div>
+          <Home />
         </Route>
         <Route path="/about">
-          <div>About</div>
+          <About />
         </Route>
         <Route path="/Contact">
-          <div>Contact</div>
+          <Contact />
         </Route>
       </div>
       <Footer />

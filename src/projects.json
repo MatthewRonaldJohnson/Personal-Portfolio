@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Page Turner",
+        "writeUp": "This CRUD application lets users signup, search for books, write reviews for those books, and leave comments on their and others reviews. It also allows users to update their profile with profile pictures, bios, and the ability to change username and passwords.",
+        "img": "../assets/PageTurner_Pic.PNG",
+        "deployed": "https://page-turner-mj-ed-kr.herokuapp.com/",
+        "github": "https://github.com/MatthewRonaldJohnson/Page-Turner"
+    },
+    {
+        "id": 2,
+        "title": "Tech Blog",
+        "writeUp": "Tech Blog write up",
+        "img": "https://raw.githubusercontent.com/MatthewRonaldJohnson/Tech-Blog/main/assests/img/Desktop-Homepage.PNG",
+        "deployed": "https://mrj-tech-blog.herokuapp.com/",
+        "github": "https://github.com/MatthewRonaldJohnson/Tech-Blog"
+    },
+    {
+        "id": 3,
+        "title": "Budget Tracker",
+        "writeUp": "Budget Tracker Write Up",
+        "img": "../assets/BudgetTracker_Pic.PNG",
+        "deployed": "https://mrj-budget-tracker.herokuapp.com/",
+        "github": "https://github.com/MatthewRonaldJohnson/Buget-Tracker"
+    },
+    {
+        "id": 4,
+        "title": "Workout Tracker",
+        "writeUp": "Workout Write Up",
+        "img": "../assets/WorkoutTracker_Pic.PNG",
+        "deployed": "https://mrj-workout-tracker.herokuapp.com/",
+        "github": "https://github.com/MatthewRonaldJohnson/Workout-Tracker"
+    },
+    {
+        "id": 5,
+        "title": "Employee Directory",
+        "writeUp": "Employee Directory Write Up",
+        "img": "../assets/EmployeeDirectory_Pic.PNG",
+        "deployed": "https://infallible-roentgen-ff9a88.netlify.app/",
+        "github": "https://github.com/MatthewRonaldJohnson/employee_directory"
+    }
+]
