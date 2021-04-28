@@ -10,5 +10,5 @@ Website is deployed with Netlify here: https://pensive-meninsky-c6e4e6.netlify.a
 
 Below is a gif showing a quick walkthrough of some of the site's features. 
 
-![Walkthrough Gif](C:\Users\Matth\bootcamp\homework\react-portfolio\assets\README_IMG.PNG)
+![Walkthrough Gif](https://github.com/MatthewRonaldJohnson/Personal-Portfolio/blob/main/assets/Portfolio-Walkthrough-Gif.gif?raw=true)
 
