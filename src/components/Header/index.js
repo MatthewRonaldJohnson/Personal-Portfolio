@@ -7,9 +7,12 @@ export default function Header(){
             <h1>Matthew Johnson</h1>
             <nav>
                 <ul className="nav nav-tabs">
-                    <NavLink title="Home" address="/" />
+                    <NavLink title="Projects" address="/" />
                     <NavLink title="About" address="/about" />
                     <NavLink title="Contact" address="/contact" />
+                    <li className="nav-item">
+                        <a className="nav-link" target="__blank" href="./assets/Resume.pdf">Resume</a>
+                    </li>
                 </ul>
             </nav>
         </header>

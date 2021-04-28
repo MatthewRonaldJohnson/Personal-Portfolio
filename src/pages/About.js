@@ -6,7 +6,7 @@ export default function About() {
 
             <h3>About Me</h3>
             <div className="w-25 h-25">
-            <img className="img-thumbnail" src="./assets/MatthewJohnsonProfile.jpg"/>
+            <img className="img-thumbnail" src="./assets/MatthewJohnsonProfile.jpg" alt="Matthew Johnson"/>
 
             </div>
             <p>
