@@ -7,7 +7,7 @@ export default function NavLink(props) {
         <li className="nav-item">
             <Link
                 to={props.address}
-                className={location.pathname === props.address ? "nav-link active" : "nav-link"}>
+                className={`nav-link ${location.pathname === props.address ? "active" : ""}`}>
                 {props.title}
             </Link>
         </li>

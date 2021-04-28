@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <footer className="pt-4 my-md-5 pt-md-5 border-top container-fluid">
             <div className="text-center">
-                © 2021
+                Built by Matthew Johnson © 2021
             </div>
             <div className="row">
                 <div className="col text-center">

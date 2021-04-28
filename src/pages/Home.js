@@ -1,14 +1,18 @@
 import ProjectCard from "../components/ProjectCard"
 import projectsArr from "../projects.json";
+import { Link } from "react-router-dom";
 
 export default function Home() {
     return (
-        <div className="container-fluid my-3">
+        <div className="container-lg my-3">
             <section className="bio">
-                <h3>Bio</h3>
+                <h3>Projects</h3>
                 <p>
-                    This is my bio which I will fill out soon. It is just a short paragraph describing myself and what I am looking for.
-            </p>
+                    Thanks for visiting my portfolio. I'm Matthew Johnson a full stack web developer. Below are a few of the projects I've worked on. This website was built using React and Bootstrap.
+                </p>
+                <p>
+                    Please also check out the <Link to="about">about me</Link> and <Link to="contact">contact</Link> pages to read more about me and to get in touch.
+                </p>
             </section>
             <section className="projects row">
                 {projectsArr.map(project => {
