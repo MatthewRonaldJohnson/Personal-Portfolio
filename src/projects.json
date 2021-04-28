@@ -38,5 +38,13 @@
         "img": "https://github.com/MatthewRonaldJohnson/Personal-Portfolio/blob/main/assets/EmployeeDirectory_Pic.PNG?raw=true",
         "deployed": "https://infallible-roentgen-ff9a88.netlify.app/",
         "github": "https://github.com/MatthewRonaldJohnson/employee_directory"
+    },
+    {
+        "id": 6,
+        "title": "Weather Dashboard",
+        "writeUp": "This front end applicaiton shows a weatherdashboard where users can search for a city and see today's weather as well as a 5 day forcast. It is powered by the OpenWeatherMap API.",
+        "img": "https://github.com/MatthewRonaldJohnson/Weather-Dashboard/raw/main/assets/images/example-page.PNG",
+        "deployed": "https://matthewronaldjohnson.github.io/Weather-Dashboard/",
+        "github": "https://github.com/MatthewRonaldJohnson/Weather-Dashboard"
     }
 ]
