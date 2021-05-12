@@ -1,5 +1,13 @@
 [
     {
+        "id": 0,
+        "title": "Magic Tournament Tracker",
+        "writeUp": "MERN stack PWA for competitive Magic the Gathering players that allows them to track their results and view graphical repersentations of their win-rates against various matchups.",
+        "img": "https://github.com/MatthewRonaldJohnson/Weather-Dashboard/raw/main/assets/images/example-page.PNG",
+        "deployed": "https://magic-tournament-tracker.herokuapp.com/",
+        "github": "https://github.com/MatthewRonaldJohnson/Magic-Tournament-Tracker"
+    },
+    {
         "id": 1,
         "title": "Page Turner",
         "writeUp": "This CRUD application lets users signup, search for books, write reviews for those books, and leave comments on their and others reviews. It also allows users to update their profile with profile pictures, bios, and the ability to change username and passwords. It uses the handlebars templating engine, a Node Express server backend, and a MySql Database. The application is deployed with heroku and uses the JawsDB MySql add-on. User uploaded profile pictures are stored in Cloudinary cloud storage.",
@@ -38,13 +46,5 @@
         "img": "https://github.com/MatthewRonaldJohnson/Personal-Portfolio/blob/main/assets/EmployeeDirectory_Pic.PNG?raw=true",
         "deployed": "https://infallible-roentgen-ff9a88.netlify.app/",
         "github": "https://github.com/MatthewRonaldJohnson/employee_directory"
-    },
-    {
-        "id": 6,
-        "title": "Weather Dashboard",
-        "writeUp": "This front end applicaiton shows a weatherdashboard where users can search for a city and see today's weather as well as a 5 day forcast. It is powered by the OpenWeatherMap API.",
-        "img": "https://github.com/MatthewRonaldJohnson/Weather-Dashboard/raw/main/assets/images/example-page.PNG",
-        "deployed": "https://matthewronaldjohnson.github.io/Weather-Dashboard/",
-        "github": "https://github.com/MatthewRonaldJohnson/Weather-Dashboard"
     }
 ]
