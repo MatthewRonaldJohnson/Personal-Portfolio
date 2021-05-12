@@ -3,7 +3,7 @@
         "id": 0,
         "title": "Magic Tournament Tracker",
         "writeUp": "MERN stack PWA for competitive Magic the Gathering players that allows them to track their results and view graphical repersentations of their win-rates against various matchups.",
-        "img": "https://github.com/MatthewRonaldJohnson/Weather-Dashboard/raw/main/assets/images/example-page.PNG",
+        "img": "https://raw.githubusercontent.com/MatthewRonaldJohnson/Personal-Portfolio/main/assets/MTT.PNG",
         "deployed": "https://magic-tournament-tracker.herokuapp.com/",
         "github": "https://github.com/MatthewRonaldJohnson/Magic-Tournament-Tracker"
     },
